@@ -1,0 +1,148 @@
+<Hotels xmlns="INSERT URL HERE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="INSERT XSD URL HERE">
+
+<!-- The given sample hotel from the Assignment 4 document-->
+<Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+        <Number>11</Number>
+        <Street>E. 7th St</Street>
+        <City>Tempe</City>
+        <State>AZ</State>
+        <Zip>85281</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel One-->
+<Hotel Rating="7.8">
+    <Name>Excalibur</Name>
+    <Phone>702-597-7777</Phone>
+    <Phone>877-750-5464</Phone>
+    <Address NearestAirport="Harry Reid">
+        <Number>3080</Number>
+        <Street>Las Vegas Boulevard South</Street>
+        <City>Las Vegas</City>
+        <State>NV</State>
+        <Zip>89109</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Two-->
+<Hotel Rating="7.7">
+    <Name>Double Tree</Name>
+    <Phone>213-629-1200</Phone>
+    <Address NearestAirport="LAX">
+        <Number>120</Number>
+        <Street>South Los Angeles Street</Street>
+        <City>Los Angeles</City>
+        <State>CA</State>
+        <Zip>90012</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Three-->
+<Hotel Rating="8.4">
+    <Name>Hollywood Suites</Name>
+    <Phone>202-899-2800</Phone>
+    <Address NearestAirport="Reagan">
+        <Number>50</Number>
+        <Street>M Street Southeast</Street>
+        <City>Washington D.C.</City>
+        <State>DC</State>
+        <Zip>20003</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Four-->
+<Hotel Rating="9.1">
+    <Name>Fairfield Inn And Suites</Name>
+    <Phone>720-673-8900</Phone>
+    <Address NearestAirport="Denver International">
+        <Number>5397</Number>
+        <Street>So. Boulder Road</Street>
+        <City>Boulder</City>
+        <State>CO</State>
+        <Zip>80303</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Five-->
+<Hotel>
+    <Name>Embassy Suites</Name>
+    <Phone>520-352-4000</Phone>
+    <Address NearestAirport="Tucson International">
+        <Number>3110</Number>
+        <Street>E Skyline Dr</Street>
+        <City>Tucson</City>
+        <State>AZ</State>
+        <Zip>85718</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Six-->
+<Hotel Rating="8.1">
+    <Name>Resthaven Tahoe</Name>
+    <Phone>888-901-5362</Phone>
+    <Address NearestAirport="Reno-Tahoe International">
+        <Number>4145</Number>
+        <Street>Manzanita Ave</Street>
+        <City>South Lake Tahoe</City>
+        <State>CA</State>
+        <Zip>96150</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Seven-->
+<Hotel>
+    <Name>Peppermill</Name>
+    <Phone>866-821-9996</Phone>
+    <Address NearestAirport="Reno-Tahoe International">
+        <Number>2707</Number>
+        <Street>South Virginia St</Street>
+        <City>Reno</City>
+        <State>NV</State>
+        <Zip>89502</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Eight-->
+<Hotel Rating="8.4">
+    <Name>The Dana</Name>
+    <Phone>619-222-6440</Phone>
+    <Address NearestAirport="San Diego International">
+        <Number>1710</Number>
+        <Street>West Mission Bay Drive</Street>
+        <City>San Diego</City>
+        <State>CA</State>
+        <Zip>92109</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Nine-->
+<Hotel Rating="7.4">
+    <Name>Seaside</Name>
+    <Phone>305-886-7033</Phone>
+    <Phone>305-703-4641</Phone>
+    <Address NearestAirport="Miami International">
+        <Number>7500</Number>
+        <Street>Collins Avenue</Street>
+        <City>Miami Beach</City>
+        <State>FL</State>
+        <Zip>33141</Zip>
+    </Address>
+</Hotel>
+
+<!-- Hotel Ten-->
+<Hotel>
+    <Name>Beach and Tennis Club</Name>
+    <Phone>888-828-0948</Phone>
+    <Address NearestAirport="San Diego International">
+        <Number>2000</Number>
+        <Street>Spindrift Drive</Street>
+        <City>La Jolla</City>
+        <State>CA</State>
+        <Zip>92037</Zip>
+    </Address>
+</Hotel>
+</Hotels>
