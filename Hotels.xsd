@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="INSERT URL HERE" targetNamespace="INSERT URL HERE" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://raw.githubusercontent.com/natmyer/namyer.github.io/refs/heads/main/xml" targetNamespace="https://raw.githubusercontent.com/natmyer/namyer.github.io/refs/heads/main/xml" elementFormDefault="qualified" attributeFormDefault="unqualified">
     <xsd:annotation>
         <xsd:documentation xml:lang="en"> Assignment 4 XSD Document Created by Natasha Myer 1224184871 </xsd:documentation>
     </xsd:annotation>

@@ -1,4 +1,4 @@
-<Hotels xmlns="INSERT URL HERE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="INSERT XSD URL HERE">
+<Hotels xmlns="https://raw.githubusercontent.com/natmyer/namyer.github.io/refs/heads/main/Hotels.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/natmyer/namyer.github.io/refs/heads/main/Hotels.xsd">
 
 <!-- The given sample hotel from the Assignment 4 document-->
 <Hotel Rating="4.2">
